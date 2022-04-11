@@ -56,8 +56,8 @@ const meer = {
 
 
 <a href="https://github.com/Shaxadhere">
-  <img height="180em" style="max-width:45%;" src="https://github-readme-stats.vercel.app/api?username=Shaxadhere&theme=buefy&show_icons=true" />
-  <img height="180em" style="max-width:45%;margin: 0 0 7px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxadhere&theme=buefy&layout=compact&hide=html,css,hack,ags%20script" />
+  <img height="180em" style="max-width:45%;" src="https://github-readme-stats.vercel.app/api?username=meerjs&theme=buefy&show_icons=true" />
+  <img height="180em" style="max-width:45%;margin: 0 0 7px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerjs&theme=buefy&layout=compact" />
 </a>
 
 
